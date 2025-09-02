@@ -16,3 +16,4 @@ print(f"Total: {totalsum}")
 payment = int(input("Payment: "))
 print(f"Change: {payment - totalsum}")
 print('kittos')
+
