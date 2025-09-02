@@ -1,4 +1,4 @@
-def tester(givenstring="Too short, Write more then 10letters."):
+def tester(givenstring="Too short, Write more then 10 Letters."):
     print(givenstring)
 
 def main():
