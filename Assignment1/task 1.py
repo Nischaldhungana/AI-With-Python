@@ -1,4 +1,4 @@
-def tester(givenstring="Too short"):
+def tester(givenstring="Too short, Write more then 10letters."):
     print(givenstring)
 
 def main():
@@ -11,28 +11,4 @@ def main():
         else:
             tester(user_input)
 
-if __name__ == "__main__":
-    main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+main()
