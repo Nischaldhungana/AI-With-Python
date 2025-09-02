@@ -19,11 +19,6 @@ print('kittos')
 
 
 
-Hello
-
-
-
-
 
 
 

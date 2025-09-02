@@ -20,7 +20,6 @@ def my_join(items, separator):
             result += separator
     return result
 
-
 sentence = input("Please enter sentence:")
 separated = my_split(sentence, " ")
 
