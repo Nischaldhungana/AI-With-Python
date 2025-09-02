@@ -27,3 +27,15 @@ separated = my_split(sentence, " ")
 print(my_join(separated, ","))
 for word in separated:
     print(word)
+
+
+
+
+
+
+
+
+
+
+
+
