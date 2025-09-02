@@ -41,7 +41,6 @@ def main():
         else:
             print("Incorrect selection.")
 
-
 if __name__ == "__main__":
     main()
 
