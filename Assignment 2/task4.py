@@ -14,3 +14,12 @@ print(I1)
 
 print("\nA_inv * A =")
 print(I2)
+
+
+
+
+
+
+
+
+
