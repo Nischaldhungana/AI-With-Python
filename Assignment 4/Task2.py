@@ -9,7 +9,7 @@ data = pd.read_csv("weight-height.csv")
 plt.scatter(data['Height'], data['Weight'])
 plt.xlabel("Height")
 plt.ylabel("Weight")
-plt.title("Height & Weight")
+plt.title("scatter plot: Height & Weight")
 plt.show()
 
 X = data['Height'].values.reshape(-1, 1)
