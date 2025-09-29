@@ -17,3 +17,6 @@ for n in n_values:
     plt.ylabel("Relative frequency")
     plt.title(f"Sum of two dice (n = {n})")
     plt.show()
+
+
+
